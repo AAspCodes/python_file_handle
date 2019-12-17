@@ -11,12 +11,12 @@ def write_to_file(text):
         f.write(text)
         
 
-def append_file(text):
-    with open("text_file", "a+") as f:
-        f.append(text)
+# def append_file(text):
+#     with open("text_file", "a+") as f:
+#         f.append(text)
 
         
 write_to_file("hello world")
 print(read_from_file())
-
-append_file("heelo again")
+#
+# append_file("heelo again")
