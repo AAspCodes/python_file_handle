@@ -24,7 +24,7 @@ def append_file(text):
 # option 2
 """Using 'with open' automatically closes the file when indentation
  is in line with the 'with' keyword.
- Using 'with open' also makes code less verbose."""
+ Using 'with open' also makes code less verbose!!!!"""
 
 
 def with_read_from_file():
