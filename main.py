@@ -1,4 +1,5 @@
-"""Some examples of how to read, write and append a file. """
+"""Some examples of how to read, write and append a file.
+Two ways are shown."""
 
 
 # option 1
